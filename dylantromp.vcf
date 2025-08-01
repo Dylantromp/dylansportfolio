@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dylan Tromp
+N:Tromp;Dylan;;;
+ORG:The Software Factory N.V.
+TITLE:Software Developer
+TEL;TYPE=WORK,VOICE:(297) 593-0217
+EMAIL:dylantromp@live.com
+URL:https://dylansportfolio.vercel.app/
+ADR;TYPE=WORK:;;Sero Blanco 60B;Aruba, Oranjestad
+PHOTO;VALUE=URI:https://dylansportfolio.vercel.app/assets/images/1630002130433.jpg
+END:VCARD
